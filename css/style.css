@@ -148,7 +148,7 @@ h1 img{max-width: inherit;}
 .pic_section h2{
 	margin: 0;
 	font:100 86px/90px 'Roboto', Arial, sans-serif;
-	color:#3CB2B4 ; 
+	color:#03658C ; 
 	margin-top: 75px;
 	margin-bottom: 0px;
 	letter-spacing: -2px;
@@ -156,14 +156,14 @@ h1 img{max-width: inherit;}
 .pic_section h3{
 	margin: 0;
 	font:100 30px/30px 'Roboto', Arial, sans-serif;
-	color:#3CB2B4 ; 
+	color:#03658C ; 
 	margin-left: 18px;
 	margin-bottom: 31px;
 }
 .splash_title1{
 	margin: 0;
 	font:300 30px/36px 'Roboto', Arial, sans-serif;
-	color:#3CB2B4; 
+	color:#03658C; 
 	margin-bottom: 3px;
 	letter-spacing: -1px;
 }
@@ -341,7 +341,7 @@ img{max-width:100%; height:auto; margin-bottom: 0px;}
 a {
 	text-decoration:none; 
 	cursor:pointer; 
-	color: #343b41;
+	color: #03658C;
 }
 a.link2{color: #727272;}
 a.link3{color: #00afe5;}
