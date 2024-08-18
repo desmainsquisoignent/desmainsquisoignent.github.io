@@ -453,17 +453,17 @@ header.content_header{
   position: relative;
   font: normal normal 14px 'FontAwesome';
   line-height: 1em;
-  color: #00afe5;
+  color: #41BDD9;
   margin-right: 7px;
   top: -1px;
 }
 .listWithMarker li a {
-  color: #434446;
+  color: #03658C;
   font:300 15px/16px "Roboto", Arial, sans-serif;
   text-decoration: none;
 }
 .listWithMarker li a:hover {
-  color: #ed1c24;
+  color: #3CB2B4;
 }
 
 
@@ -486,7 +486,7 @@ header.content_header{
   overflow: hidden;
 }
 .listWithMarker2 li a:hover {
-  color: #ed1c24;
+  color: #3CB2B4;
 }
 .icon-plus-sign {
   position: relative;
