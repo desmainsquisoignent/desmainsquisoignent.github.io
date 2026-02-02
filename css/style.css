@@ -356,13 +356,21 @@ a{
 	-o-transition:all 0.3s ease;
 	transition:all 0.3s ease;
 }
-
-.pic_section{
-	width: 100%;
-	min-height: 502px;
-	background: url(../images/header_bg.jpg) center 0 repeat-x #ebf8fe;
-	border-bottom: 1px solid #fff;
+/* Sabra FOREST presentation.jpg */
+.pic_section {
+  width: 100%;
+  min-height: 502px;
+  background: url(../images/header_bg.jpg) center 0 repeat-x #ebf8fe;
+  border-bottom: 1px solid #fff;
 }
+
+/* Put media queries after so they have precedence */
+@media (max-width: 600px), (max-height: 501px) {
+  .pic_section {
+    background: url(../images/header_smaller_bg.jpg) center 0 repeat-x #ebf8fe !important;
+  }
+}
+
 
 .top_section{
 	width: 100%;
